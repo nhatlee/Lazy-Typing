@@ -1,0 +1,6 @@
+framework module Pods_Lazy_Typing {
+  umbrella header "Pods-Lazy Typing-umbrella.h"
+
+  export *
+  module * { export * }
+}
